@@ -1,0 +1,32 @@
+#Exclude all folders except src
+/*/
+!/src/
+
+# Job's junk
+.DS_Store
+
+# Visual Studio Workspace
+.vscode
+
+# archive files
+*.zip
+*.gz
+*.gzip
+*.tar
+*.tar.gz
+*.tgz
+
+# PSDs
+*.psd
+
+# Spreadsheets
+*.xls
+*.xlsx
+
+# archive directories
+__ark/
+
+# local stash
+*_bak
+__bak/
+bak_*

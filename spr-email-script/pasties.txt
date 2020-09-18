@@ -1,0 +1,29 @@
+devpurered.runme@previews.emailonacid.com
+
+qa@purered.net
+
+devpurered.runme@previews.emailonacid.com, qa@purered.net, Lyndsie.Pizzarelli@PureRED.net
+
+devpurered.runme@previews.emailonacid.com, bob.ware@purered.net
+
+purered@litmusemail.com, bob.ware@purered.net
+
+purered@litmusemail.com, devpurered.runme@previews.emailonacid.com, bob.ware@purered.net
+
+bob.ware@purered.net, qa@purered.net, Lyndsie.Pizzarelli@PureRED.net
+
+devpurered.runme@previews.emailonacid.com, kenneth.wilcox@purered.net
+
+kenneth.wilcox@purered.net, qa@purered.net, Lyndsie.Pizzarelli@PureRED.net
+
+purered@litmusemail.com, kenneth.wilcox@purered.net
+
+purered@litmusemail.com, devpurered.runme@previews.emailonacid.com, kenneth.wilcox@purered.net
+
+TEST - SPRID (Circle Office Supply)
+
+TEST - GOPD (One Source BP)
+
+TEST - SKU (Mid City Office)
+
+PureRED Test
